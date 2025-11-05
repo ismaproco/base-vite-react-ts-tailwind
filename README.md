@@ -5,15 +5,14 @@ A modern, lightweight starter template for building React applications with Vite
 ## Features
 
 - ⚡️ **Vite** - Lightning-fast development server and build tool
-- ⚛️ **React 18** - Latest React with concurrent features
+- ⚛️ **React 19** - Latest React with concurrent features
 - 🎨 **Tailwind CSS** - Utility-first CSS framework
 - 📘 **TypeScript** - Type-safe development
 - 🔍 **ESLint** - Code linting and formatting
-- 🎯 **Lucide React** - Beautiful icon library
 
 ## Prerequisites
 
-- Node.js 18.x or higher
+- Node.js 20.x or higher
 - pnpm (recommended) or npm
 
 ## Getting Started
@@ -63,11 +62,10 @@ base-tl/
 
 ## Tech Stack
 
-- **React** ^18.3.1
-- **TypeScript** ^5.5.3
-- **Vite** ^5.4.2
-- **Tailwind CSS** ^3.4.1
-- **Lucide React** ^0.344.0
+- **React** ^19.2.0
+- **TypeScript** ~5.9.3
+- **Vite** ^7.1.7
+- **Tailwind CSS** ^4.1.16 (with Vite and PostCSS plugins)
 
 ## Development
 
